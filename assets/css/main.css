@@ -3,9 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,600,700,800");
 
 /*
-	Road Trip by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+	Arrhive
 */
 
 /* Reset */
@@ -4428,4 +4426,11 @@
 				padding: 3em 0 1em 0;
 			}
 
+		}
+
+
+		/* My adaptations */
+		.secSubTitle {
+			font-size: 1.5em;
+			font-weight: bolder;
 		}
